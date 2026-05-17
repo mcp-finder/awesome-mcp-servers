@@ -101,6 +101,7 @@ Maintained by Anthropic or the MCP organization.
 - [npm-mcp](https://github.com/erithwik/mcp-npm) — Package metadata, downloads.
 - [code-runner-mcp](https://github.com/formulahendry/mcp-server-code-runner) — Multi-language code execution.
 - [vscode-mcp-server](https://github.com/block/vscode-mcp) — VS Code editor integration.
+- [click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) — Automatically wrap any CLI tool as a fully functional MCP server.
 
 ---
 
