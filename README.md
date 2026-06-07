@@ -90,6 +90,7 @@ Maintained by Anthropic or the MCP organization.
 
 ## Developer tools
 
+- [gadgethumans-api-hub-mcp](https://github.com/scotia1973-bot/gadgethumans-api-hub-mcp) - 334 free developer tools: QR codes, passwords, UUIDs, hashes, Base64, JSON, color converter, email verification, IP geolocation, timestamps, plus 300+ calculators, text analysis, color tools, readability, domain, code and financial tools. MCP server at `uvx gadgethumans-api-hub-mcp`. Free, no API key required.
 - [github-mcp](https://github.com/modelcontextprotocol/servers/tree/main/src/github) — Full GitHub API access.
 - [gitlab-mcp](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) — GitLab projects, MRs, issues.
 - [linear-mcp](https://github.com/jerhadf/linear-mcp-server) — Linear issues and projects.
