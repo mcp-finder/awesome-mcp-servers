@@ -178,6 +178,7 @@ Maintained by Anthropic or the MCP organization.
 - [coingecko-mcp](https://github.com/coingecko/mcp-server-coingecko) — Crypto market data.
 - [chainstack-mcp](https://github.com/chainstacklabs/mcp-evm-server) — EVM chain RPC.
 - [alphavantage-mcp](https://github.com/calvernaz/alphavantage) — Stock market data.
+- [twzrd-agent-intel](https://intel.twzrd.xyz) — Solana on-chain trust scoring for AI agents. Verify wallet reputation before x402 micropayments.
 
 ---
 
