@@ -126,6 +126,7 @@ Maintained by Anthropic or the MCP organization.
 - [tavily-mcp](https://github.com/tavily-ai/tavily-mcp) — Tavily search API.
 - [perplexity-mcp](https://github.com/jsonallen/perplexity-mcp) — Perplexity-style web answers.
 - [fetch-mcp](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) — HTTP fetch + HTML→markdown.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Searches tweets, looks up profiles, downloads media, monitors accounts, runs giveaways, and prepares confirmation-gated publishing.
 
 ---
 
