@@ -100,6 +100,7 @@ Maintained by Anthropic or the MCP organization.
 - [terraform-mcp](https://github.com/severity1/terraform-cloud-mcp) — Terraform Cloud workspaces.
 - [npm-mcp](https://github.com/erithwik/mcp-npm) — Package metadata, downloads.
 - [code-runner-mcp](https://github.com/formulahendry/mcp-server-code-runner) — Multi-language code execution.
+- [ax](https://github.com/Necmttn/ax) — Queries local coding-agent telemetry.
 - [vscode-mcp-server](https://github.com/block/vscode-mcp) — VS Code editor integration.
 
 ---
