@@ -21,6 +21,7 @@ The Model Context Protocol (MCP) lets large language models talk to external too
 - [Productivity and notes](#productivity-and-notes)
 - [Communication](#communication)
 - [Cloud and DevOps](#cloud-and-devops)
+- [Analytics](#analytics)
 - [AI, LLM, and embeddings](#ai-llm-and-embeddings)
 - [Finance and crypto](#finance-and-crypto)
 - [Design and media](#design-and-media)
@@ -157,6 +158,12 @@ Maintained by Anthropic or the MCP organization.
 - [vercel-mcp](https://github.com/Quegenx/vercel-mcp-server) — Deployments, env vars.
 - [netlify-mcp](https://github.com/MCERQUA/netlify-mcp) — Netlify sites and builds.
 - [stripe-mcp](https://github.com/stripe/agent-toolkit) — Payments, customers, subscriptions.
+
+---
+
+## Analytics
+
+- [llmpulse-mcp](https://github.com/LLM-Pulse/llmpulse-mcp) — Exposes LLM Pulse brand visibility, citations, sentiment, share of voice, and AI traffic analytics.
 
 ---
 
