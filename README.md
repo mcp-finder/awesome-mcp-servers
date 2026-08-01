@@ -133,7 +133,7 @@ Maintained by Anthropic or the MCP organization.
 
 - [notion-mcp](https://github.com/makenotion/notion-mcp-server) — Notion pages, databases.
 - [obsidian-mcp](https://github.com/MarkusPfundstein/mcp-obsidian) — Obsidian vaults.
-- [origin-mcp](https://github.com/7xuanlu/origin) — Stores AI work context locally with handoffs, source-backed wiki pages, and hybrid retrieval.
+- [wenlan-mcp](https://github.com/7xuanlu/wenlan) — Local-first AI knowledge base and LLM wiki with source-cited pages, handoffs, and hybrid retrieval.
 - [todoist-mcp](https://github.com/abhiz123/todoist-mcp-server) — Tasks and projects.
 - [calendar-mcp](https://github.com/Zawad99/Google-Calendar-MCP-Server) — Google Calendar.
 - [apple-notes-mcp](https://github.com/sirmews/apple-notes-mcp) — Apple Notes (macOS).
