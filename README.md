@@ -200,6 +200,7 @@ Maintained by Anthropic or the MCP organization.
 
 ## E-commerce
 
+- [pocket-drives-mcp](https://github.com/RevList/pocket-drives-mcp) — Search peer-to-peer luxury, exotic, and EV rentals from independent hosts. Booking finishes in the iOS app. Remote HTTP MCP at https://pocketdrives.ai/mcp.
 - [shopify-mcp](https://github.com/rezapex/shopify-mcp-server) — Products, orders, inventory.
 - [woocommerce-mcp](https://github.com/techspawn/woocommerce-mcp-server) — WordPress shop ops.
 
