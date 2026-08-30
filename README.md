@@ -156,6 +156,7 @@ Maintained by Anthropic or the MCP organization.
 - [cloudflare-mcp](https://github.com/cloudflare/mcp-server-cloudflare) — Workers, KV, DNS.
 - [vercel-mcp](https://github.com/Quegenx/vercel-mcp-server) — Deployments, env vars.
 - [netlify-mcp](https://github.com/MCERQUA/netlify-mcp) — Netlify sites and builds.
+- [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) — Agent sessions and sandboxed code execution through a local stdio bridge.
 - [stripe-mcp](https://github.com/stripe/agent-toolkit) — Payments, customers, subscriptions.
 
 ---
