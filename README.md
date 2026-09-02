@@ -142,6 +142,7 @@ Maintained by Anthropic or the MCP organization.
 
 ## Communication
 
+- [bulkpublish-mcp](https://github.com/azeemkafridi/bulkpublish-api) — AI agents plan, review, schedule, publish, and analyze social media content through BulkPublish.
 - [slack-mcp](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) — Slack workspaces.
 - [discord-mcp](https://github.com/v-3/discordmcp) — Discord channels and DMs.
 - [telegram-mcp](https://github.com/chigwell/telegram-mcp) — Telegram bots.
