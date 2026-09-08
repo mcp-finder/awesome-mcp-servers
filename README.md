@@ -94,6 +94,7 @@ Maintained by Anthropic or the MCP organization.
 - [gitlab-mcp](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) — GitLab projects, MRs, issues.
 - [linear-mcp](https://github.com/jerhadf/linear-mcp-server) — Linear issues and projects.
 - [jira-mcp](https://github.com/sooperset/mcp-atlassian) — Atlassian Jira + Confluence.
+- [mdflow](https://github.com/yubinbin32-ops/Mdflow-Canvas) — Tracks architecture, plans, dependencies, and checkpoint evidence as a Git-versioned graph for task-scoped agent context.
 - [sentry-mcp](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) — Error monitoring.
 - [docker-mcp](https://github.com/QuantGeekDev/docker-mcp) — Container lifecycle.
 - [kubernetes-mcp](https://github.com/Flux159/mcp-server-kubernetes) — Cluster inspection and apply.
