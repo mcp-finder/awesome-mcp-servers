@@ -120,6 +120,7 @@ Maintained by Anthropic or the MCP organization.
 - [puppeteer-mcp](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) — Headless Chromium.
 - [playwright-mcp](https://github.com/microsoft/playwright-mcp) — Microsoft Playwright automation.
 - [browserbase-mcp](https://github.com/browserbase/mcp-server-browserbase) — Hosted browser cloud.
+- [Personae](https://github.com/leek-emperor/Personae) — Control a selected, already-open account-isolated browser identity through a local MCP server, with navigation, accessibility snapshots, interactions, screenshots, JavaScript evaluation, and OAuth popup support. Install: `npx -y @leek-emperor/personae-mcp` after installing and launching Personae.
 - [firecrawl-mcp](https://github.com/mendableai/firecrawl-mcp-server) — Web crawling and scraping.
 - [brave-search-mcp](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) — Brave Search API.
 - [exa-mcp](https://github.com/exa-labs/exa-mcp-server) — Exa neural search.
