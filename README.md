@@ -186,6 +186,7 @@ Maintained by Anthropic or the MCP organization.
 - [figma-mcp](https://github.com/GLips/Figma-Context-MCP) — Figma file context.
 - [blender-mcp](https://github.com/ahujasid/blender-mcp) — Blender 3D scenes.
 - [unity-mcp](https://github.com/justinpbarnett/unity-mcp) — Unity editor automation.
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — Composes, edits, generates, and assembles videos from editable plan.json timelines through a local-first TypeScript CLI and MCP server (MIT).
 - [spotify-mcp](https://github.com/varunneal/spotify-mcp) — Playback and playlists.
 
 ---
