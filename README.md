@@ -172,6 +172,7 @@ Maintained by Anthropic or the MCP organization.
 
 ## Finance and crypto
 
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 - [stripe-mcp](https://github.com/stripe/agent-toolkit) — Stripe operations.
 - [quickbooks-mcp](https://github.com/abel9851/mcp-server-quickbooks) — Bookkeeping.
 - [plaid-mcp](https://github.com/yourusername/plaid-mcp) — Bank account aggregation.
