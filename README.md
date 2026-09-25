@@ -162,11 +162,12 @@ Maintained by Anthropic or the MCP organization.
 
 ## AI, LLM, and embeddings
 
-- [openai-mcp](https://github.com/pierrebrunelle/mcp-server-openai) — OpenAI API passthrough.
-- [replicate-mcp](https://github.com/deepfates/mcp-replicate) — Replicate model runs.
-- [hugging-face-mcp](https://github.com/shreyaskarnik/huggingface-mcp-server) — Models, datasets, inference.
 - [elevenlabs-mcp](https://github.com/elevenlabs/elevenlabs-mcp) — Text-to-speech.
+- [hugging-face-mcp](https://github.com/shreyaskarnik/huggingface-mcp-server) — Models, datasets, inference.
+- [mcp-cross-model-delegation](https://github.com/Jostophe-021/mcp-cross-model-delegation) — Routes bounded text tasks across configured language-model providers and verifies quotations in structured findings.
+- [openai-mcp](https://github.com/pierrebrunelle/mcp-server-openai) — OpenAI API passthrough.
 - [openrouter-mcp](https://github.com/heltonteixeira/openrouter-mcp) — Multi-model gateway.
+- [replicate-mcp](https://github.com/deepfates/mcp-replicate) — Replicate model runs.
 
 ---
 
