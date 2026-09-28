@@ -162,6 +162,7 @@ Maintained by Anthropic or the MCP organization.
 
 ## AI, LLM, and embeddings
 
+- [aident-loadout](https://github.com/Aident-AI/aident-skill) — Connects Codex, Claude Code, Cursor, ChatGPT and other MCP clients to 1,000+ apps and 400+ Skills through one remote MCP setup.
 - [openai-mcp](https://github.com/pierrebrunelle/mcp-server-openai) — OpenAI API passthrough.
 - [replicate-mcp](https://github.com/deepfates/mcp-replicate) — Replicate model runs.
 - [hugging-face-mcp](https://github.com/shreyaskarnik/huggingface-mcp-server) — Models, datasets, inference.
