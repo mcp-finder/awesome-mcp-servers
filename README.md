@@ -117,6 +117,7 @@ Maintained by Anthropic or the MCP organization.
 
 ## Web, scraping, and browsing
 
+- [2captcha-mcp](https://github.com/2captcha/2captcha-mcp) — Web scraping past anti-bot protection, marketplace parsing, browser automation and CAPTCHA solving.
 - [puppeteer-mcp](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) — Headless Chromium.
 - [playwright-mcp](https://github.com/microsoft/playwright-mcp) — Microsoft Playwright automation.
 - [browserbase-mcp](https://github.com/browserbase/mcp-server-browserbase) — Hosted browser cloud.
