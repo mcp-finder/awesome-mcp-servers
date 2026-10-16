@@ -117,6 +117,7 @@ Maintained by Anthropic or the MCP organization.
 
 ## Web, scraping, and browsing
 
+- [carejobs-mcp](https://github.com/yumaheymans/carejobs-mcp) - Searches open US healthcare job postings and the pay employers post.
 - [puppeteer-mcp](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) — Headless Chromium.
 - [playwright-mcp](https://github.com/microsoft/playwright-mcp) — Microsoft Playwright automation.
 - [browserbase-mcp](https://github.com/browserbase/mcp-server-browserbase) — Hosted browser cloud.
