@@ -172,6 +172,7 @@ Maintained by Anthropic or the MCP organization.
 
 ## Finance and crypto
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Prepares x402 purchases and crypto transfers through local macOS CLI and stdio MCP, with foreground owner approval for signing.
 - [stripe-mcp](https://github.com/stripe/agent-toolkit) — Stripe operations.
 - [quickbooks-mcp](https://github.com/abel9851/mcp-server-quickbooks) — Bookkeeping.
 - [plaid-mcp](https://github.com/yourusername/plaid-mcp) — Bank account aggregation.
