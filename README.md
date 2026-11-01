@@ -117,6 +117,7 @@ Maintained by Anthropic or the MCP organization.
 
 ## Web, scraping, and browsing
 
+- [agent-qa](https://github.com/vostride/agent-qa) — Runs natural-language web, Android and iOS QA with persistent memidex memory and evidence-based self-improvement.
 - [puppeteer-mcp](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) — Headless Chromium.
 - [playwright-mcp](https://github.com/microsoft/playwright-mcp) — Microsoft Playwright automation.
 - [browserbase-mcp](https://github.com/browserbase/mcp-server-browserbase) — Hosted browser cloud.
