@@ -200,6 +200,7 @@ Maintained by Anthropic or the MCP organization.
 
 ## E-commerce
 
+- [gnv-catalog-mcp](https://github.com/aiagentcycle/gnv-catalog-mcp) — Searches the public Good Nature Vibe product catalog and shop knowledge through six hosted read-only tools, with no carts, orders, payments or checkout.
 - [shopify-mcp](https://github.com/rezapex/shopify-mcp-server) — Products, orders, inventory.
 - [woocommerce-mcp](https://github.com/techspawn/woocommerce-mcp-server) — WordPress shop ops.
 
