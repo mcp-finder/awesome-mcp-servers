@@ -207,6 +207,7 @@ Maintained by Anthropic or the MCP organization.
 
 ## Health and fitness
 
+- [holos33-mcp](https://github.com/aiagentcycle/holos33-mcp) — Searches sourced public Holos33 information through 11 hosted read-only tools without requiring an account.
 - [strava-mcp](https://github.com/r-huijts/strava-mcp) — Activity history.
 - [oura-mcp](https://github.com/tomekkorbak/oura-mcp-server) — Sleep and readiness.
 
