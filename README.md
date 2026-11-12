@@ -192,9 +192,10 @@ Maintained by Anthropic or the MCP organization.
 
 ## Security
 
+- [1password-mcp](https://github.com/dkmaker/mcp-1password) — Secret retrieval.
+- [gridzen-mcp](https://github.com/immurray/gridzen-developer-kit) — Plans identity-verification coverage and exercises sandbox decision results through five read-only MCP tools.
 - [shodan-mcp](https://github.com/BurtTheCoder/mcp-shodan) — Shodan host scans.
 - [virustotal-mcp](https://github.com/BurtTheCoder/mcp-virustotal) — File/URL reputation.
-- [1password-mcp](https://github.com/dkmaker/mcp-1password) — Secret retrieval.
 
 ---
 
