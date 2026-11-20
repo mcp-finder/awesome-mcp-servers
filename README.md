@@ -145,6 +145,7 @@ Maintained by Anthropic or the MCP organization.
 - [slack-mcp](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) — Slack workspaces.
 - [discord-mcp](https://github.com/v-3/discordmcp) — Discord channels and DMs.
 - [telegram-mcp](https://github.com/chigwell/telegram-mcp) — Telegram bots.
+- [FairValid](https://github.com/moonlitnayeem/fairvalid-ai) — Verify email addresses and find verified work contacts through an authenticated hosted connection.
 - [gmail-mcp](https://github.com/GongRzhe/Gmail-MCP-Server) — Gmail read/send.
 - [whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) — WhatsApp via local bridge.
 
