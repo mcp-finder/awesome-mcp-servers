@@ -222,6 +222,7 @@ Build your own MCP server in your preferred language:
 - [mcp-rust-sdk](https://github.com/jeanlucthumm/mcp-rust-sdk) — Rust SDK.
 - [mcp-kotlin](https://github.com/modelcontextprotocol/kotlin-sdk) — Kotlin/JVM SDK.
 - [mcp-csharp](https://github.com/modelcontextprotocol/csharp-sdk) — .NET SDK.
+- [xmcp](https://github.com/basementstudio/xmcp) — Build MCP servers in TypeScript with file-based tools, resources, prompts, and HTTP or STDIO transport.
 
 > Just shipped a server? **List it on [MCPfinder.org](https://mcpfinder.org)** for a verified profile, install snippet, and reliability tracking.
 
