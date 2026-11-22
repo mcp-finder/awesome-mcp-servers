@@ -187,6 +187,7 @@ Maintained by Anthropic or the MCP organization.
 - [blender-mcp](https://github.com/ahujasid/blender-mcp) — Blender 3D scenes.
 - [unity-mcp](https://github.com/justinpbarnett/unity-mcp) — Unity editor automation.
 - [spotify-mcp](https://github.com/varunneal/spotify-mcp) — Playback and playlists.
+- [i2v-mcp](https://github.com/i2v-ai/i2v-mcp) — Generates images and videos across 12 image and 16 video models, returning a USD quote before every paid task.
 
 ---
 
