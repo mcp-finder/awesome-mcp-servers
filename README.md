@@ -146,6 +146,7 @@ Maintained by Anthropic or the MCP organization.
 - [discord-mcp](https://github.com/v-3/discordmcp) — Discord channels and DMs.
 - [telegram-mcp](https://github.com/chigwell/telegram-mcp) — Telegram bots.
 - [gmail-mcp](https://github.com/GongRzhe/Gmail-MCP-Server) — Gmail read/send.
+- [Poptin MCP](https://github.com/Poptin-LTD/Poptin-MCP) — Drafts email campaigns, builds audience segments, and compares popup and form performance.
 - [whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) — WhatsApp via local bridge.
 
 ---
